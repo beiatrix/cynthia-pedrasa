@@ -1,6 +1,7 @@
 export {Bio} from './Bio'
 export {Navbar} from './Navbar'
 export {Header} from './Header'
-export {Experience} from './Experience'
+export {default as Experience} from './Experience'
+export {ExpItem} from './ExpItem'
 export {Education} from './Education'
 export {Footer} from './Footer'
