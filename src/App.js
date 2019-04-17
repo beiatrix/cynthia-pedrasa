@@ -1,5 +1,12 @@
 import React, { Component } from 'react';
-import {Navbar, Header, Bio, Footer} from './components'
+import {
+  Navbar,
+  Header,
+  Bio,
+  Experience,
+  Education,
+  Footer
+} from './components'
 import './App.css';
 
 class App extends Component {
@@ -7,8 +14,12 @@ class App extends Component {
     return (
       <div className="App">
         <Navbar />
-        <Header />
-        <Bio />
+        <main>
+          <Header />
+          <Bio />
+          <Experience />
+          <Education />
+        </main>
         <Footer />
       </div>
     );

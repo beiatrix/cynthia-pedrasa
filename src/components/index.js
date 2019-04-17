@@ -1,4 +1,6 @@
 export {Bio} from './Bio'
 export {Navbar} from './Navbar'
 export {Header} from './Header'
+export {Experience} from './Experience'
+export {Education} from './Education'
 export {Footer} from './Footer'
