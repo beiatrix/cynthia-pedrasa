@@ -5,7 +5,7 @@ export const Header = () => {
   return (
     <header>
       <div>
-        <h1>Cynthia Pedrasa</h1>
+        <h1>Cynthia Pedrasa <span>MS, RN-BC, PMP, CPHIMS</span></h1>
         <h2>Information Architect</h2>
       </div>
     </header>
