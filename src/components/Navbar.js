@@ -27,7 +27,7 @@ export const Appbar = () => {
             <Nav.Link href="/#projects">PROJECTS</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="https://drive.google.com/file/d/14QM6fd1p19I31tyiDjmyUBYOgA1H84jF/view?usp=sharing" target="_blank">RESUME</Nav.Link>
+            <Nav.Link href="https://drive.google.com/file/d/1MsULmn9gYS5_JPgutD-Wlfu5ZOOc0YkM/view?usp=sharing" target="_blank">RESUME</Nav.Link>
           </Nav.Item>
           <Nav.Item>
             <Nav.Link href="/#contact">CONTACT</Nav.Link>
