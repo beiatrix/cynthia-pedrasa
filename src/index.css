@@ -1,3 +1,14 @@
+html {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+	margin: 0;
+}
 body {
   margin: 0;
   padding: 0;
@@ -11,4 +22,48 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+/*
+ * ==================== COLORS ====================
+*/
+
+:root {
+	--lightgray: #f1f1f1;
+	/* --medgray: #d9d5e2; */
+	--medgray: #e8e6ef;
+	/* --medgray: #e5e5e5; */
+	--darkgray: #3b3b3b;
+	--lavgray: #cbc8d1;
+	/* --lavender: #9983ee; */
+	--lightlav: #e4d9f7;
+	--lavender: #b689ff;
+	--purple: #806fd6;
+	--jade: #479289;
+  --emerald: #0d6166;
+  --midnight: #003366;
+  --navy: #002266;
+  --sky: #3e99ef;
+}
+
+
+h1 {
+	font-size: 3rem;
+
+	font-weight: 600;
+}
+
+a {
+	color: var(--midnight);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--sky);
+	text-decoration: none;
+	background: var(--lightgray);
+}
+
+a:visited {
+	text-decoration: none;
 }

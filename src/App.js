@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {
-  Navbar,
+  Appbar,
   Header,
   Bio,
   Experience,
@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navbar />
+        <Appbar />
         <main>
           <Header />
           <Bio />

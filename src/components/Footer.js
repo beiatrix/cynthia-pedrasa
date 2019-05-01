@@ -7,6 +7,7 @@ export const Footer = () => {
       <ul>
         <li>gmail</li>
         <li>linkedin</li>
+        <li>github</li>
       </ul>
       website designed + built by beiatrix pedrasa 2019
     </footer>

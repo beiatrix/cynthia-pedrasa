@@ -1,0 +1,42 @@
+
+nav {
+	box-shadow: 0 0 15px grey;
+}
+
+nav a {
+	margin: 0 0.5rem 0 0.5rem;
+	padding: 2rem;
+	font-weight: 600;
+	text-align: center;
+	letter-spacing: 0.2rem;
+}
+
+nav a:hover {
+	color: var(--sky) !important;
+	/* border: none; */
+	border-radius: 3px;
+}
+
+a.nav-link.active {
+	color: var(--sky) !important;
+}
+
+#logo:hover {
+	cursor: pointer;
+	background: white;
+}
+
+#logolink {
+	margin: 0.25rem 0 0.25rem 0.5rem;
+	padding: 0;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+	outline: none;
+	box-shadow: none;
+}
+
+.navbar-default {
+	border-color: transparent;
+}
