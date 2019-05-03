@@ -1,11 +1,12 @@
 import React from 'react'
+import "../styles/Footer.css"
 
 export const Footer = () => {
   return (
     <footer id="contact">
-      <h1>cynthia pedrasa</h1>
+      <h1>say hello!</h1>
 
-      <h2>say hello!</h2>
+      {/* <h2>say hello!</h2> */}
 
       {/* socials */}
       <a href="https://www.linkedin.com/in/beiatrix/" target="_blank">
