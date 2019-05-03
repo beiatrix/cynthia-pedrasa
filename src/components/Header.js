@@ -5,8 +5,11 @@ export const Header = () => {
   return (
     <header>
       <div>
-        <h1>Cynthia Pedrasa <span>MS, RN-BC, PMP, CPHIMS</span></h1>
-        <h2>Information Architect</h2>
+        <h1 id="name">cynthia pedrasa</h1>
+        <br />
+        <h2 id="creds">MS, RN-BC, PMP, CPHIMS</h2>
+        {/* <br />
+        <h2 id="title">Information Architect</h2> */}
       </div>
     </header>
   )

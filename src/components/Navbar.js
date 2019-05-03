@@ -23,15 +23,19 @@ export const Appbar = () => {
           <Nav.Item>
             <Nav.Link href="/#about">ABOUT</Nav.Link>
           </Nav.Item>
+
           <Nav.Item>
             <Nav.Link href="/#projects">PROJECTS</Nav.Link>
           </Nav.Item>
-          <Nav.Item>
-            <Nav.Link href="https://drive.google.com/file/d/1MsULmn9gYS5_JPgutD-Wlfu5ZOOc0YkM/view?usp=sharing" target="_blank">RESUME</Nav.Link>
-          </Nav.Item>
+
           <Nav.Item>
             <Nav.Link href="/#contact">CONTACT</Nav.Link>
           </Nav.Item>
+
+          <Nav.Item>
+            <Nav.Link href="https://drive.google.com/file/d/1MsULmn9gYS5_JPgutD-Wlfu5ZOOc0YkM/view?usp=sharing" target="_blank">RESUME</Nav.Link>
+          </Nav.Item>
+
 
         </Nav>
       </Navbar.Collapse>
