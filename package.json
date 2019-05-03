@@ -2,6 +2,7 @@
   "name": "cynthia-pedrasa",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cynthiapedrasa.com",
   "dependencies": {
     "react": "^16.8.4",
     "react-bootstrap": "^1.0.0-beta.8",
