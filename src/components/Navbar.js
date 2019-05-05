@@ -25,7 +25,7 @@ export const Appbar = () => {
           </Nav.Item>
 
           <Nav.Item>
-            <Nav.Link href="/#projects">PROJECTS</Nav.Link>
+            <Nav.Link href="/#projects-section">PROJECTS</Nav.Link>
           </Nav.Item>
 
           <Nav.Item>
