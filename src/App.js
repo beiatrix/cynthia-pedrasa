@@ -3,8 +3,7 @@ import {
   Appbar,
   Header,
   Bio,
-  Experience,
-  Education,
+  Projects,
   Footer
 } from './components'
 import './App.css';
@@ -17,8 +16,7 @@ class App extends Component {
         <main>
           <Header />
           <Bio />
-          {/* <Experience />
-          <Education /> */}
+          <Projects />
         </main>
         <Footer />
       </div>
