@@ -9,16 +9,16 @@ export const Footer = () => {
       {/* <h2>say hello!</h2> */}
 
       {/* socials */}
-      <a href="https://www.linkedin.com/in/beiatrix/" target="_blank">
+      <a href="https://www.linkedin.com/in/cynthiapedrasa/" target="_blank">
         <i class="fab fa-linkedin-in"></i>
       </a>
-      <a href="mailto:beiatrixmgmt@gmail.com">
+      <a href="mailto:cpedrasa@gmail.com">
         <i class="fas fa-envelope"></i>
       </a>
       <a href="https://www.github.com/beiatrix/" target="_blank">
         <i class="fab fa-github"></i>
       </a>
-      <a href="https://www.instagram.com/beiatrix/" target="_blank">
+      <a href="https://www.instagram.com/rndatasci/" target="_blank">
         <i class="fab fa-instagram"></i>
       </a>
 

@@ -52,6 +52,9 @@
 /* smaller headshot */
 @media (max-width: 600px) {
 	#headshot {
+    /* justify-content: center;
+    align-items: center; */
+    /* margin: auto; */
 		max-width: 80%;
 	}
 }
