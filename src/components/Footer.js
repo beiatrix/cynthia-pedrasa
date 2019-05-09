@@ -15,7 +15,7 @@ export const Footer = () => {
       <a href="mailto:cpedrasa@gmail.com">
         <i class="fas fa-envelope"></i>
       </a>
-      <a href="https://www.github.com/beiatrix/" target="_blank">
+      <a href="https://www.github.com/cpedrasa/" target="_blank">
         <i class="fab fa-github"></i>
       </a>
       <a href="https://www.instagram.com/rndatasci/" target="_blank">
