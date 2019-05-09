@@ -7,7 +7,7 @@ const projects = [
     // subtitle: 'WEB BROWSER GAME',
     // https://images.pexels.com/photos/1642125/pexels-photo-1642125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
     imageurl: 'https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-    url: 'https://beiatrix.github.io/code-sketches/pages/13-rps/rps.html',
+    url: '#',
     desc: 'Using the OSEMN framework, this project will go through the Data Science phases to get, clean, explore, model, and interpret a dataset using multivariate linear regression to predict the sale price of houses as accurately as possible.'
   },
   // {
