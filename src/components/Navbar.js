@@ -33,6 +33,10 @@ export const Appbar = () => {
           </Nav.Item>
 
           <Nav.Item>
+            <Nav.Link href="https://cpedrasa.github.io" target="_blank">BLOG</Nav.Link>
+          </Nav.Item>
+
+          <Nav.Item>
             <Nav.Link href="https://drive.google.com/file/d/1MsULmn9gYS5_JPgutD-Wlfu5ZOOc0YkM/view?usp=sharing" target="_blank">RESUME</Nav.Link>
           </Nav.Item>
 
