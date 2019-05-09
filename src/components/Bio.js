@@ -10,7 +10,7 @@ export const Bio = () => {
         <Col md="5" >
           <div id="bioimg">
             {/* https://ibb.co/KbH1YtJ */}
-            <img id="headshot" src="https://i.ibb.co/XjTw9nq/cynthia-pedrasa.jpg" alt="beiatrix" />
+            <img id="headshot" src="https://i.ibb.co/XjTw9nq/cynthia-pedrasa.jpg" alt="cynthia" />
           </div>
         </Col>
         <Col lg="7" >

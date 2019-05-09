@@ -13,12 +13,13 @@ nav a {
 
 nav a:hover {
 	color: var(--sky) !important;
+	background: none;
 	/* border: none; */
-	border-radius: 3px;
+	/* border-radius: 3px; */
 }
 
 a.nav-link.active {
-	color: var(--sky) !important;
+	color: var(--navy) !important;
 }
 
 #logo:hover {
@@ -35,6 +36,7 @@ a.nav-link.active {
 .navbar-toggler:active {
 	outline: none;
 	box-shadow: none;
+	background: none;
 }
 
 .navbar-default {

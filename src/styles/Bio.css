@@ -1,9 +1,9 @@
 #about {
-	margin-top: -74px;
-	padding-top: 74px;
+	margin-top: -120px;
+	padding-top: 120px;
 	/* border: 3px solid red; */
 	/* margin-top: 1rem; */
-	margin-bottom: 104px;
+	margin-bottom: 124px;
 	/* padding: 2rem 0 2rem 0; */
 }
 
@@ -43,7 +43,7 @@
 
 .highlight {
 	font-weight: 600;
-	color: var(--midnight);
+	color: var(--blue);
 }
 
 /* media queries */
