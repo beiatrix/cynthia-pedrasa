@@ -12,7 +12,7 @@ export const Appbar = () => {
           width="auto"
           height="50"
           className="d-inline-block align-top"
-          alt="beiatrix"
+          alt="cynthia"
         />
       </a>
 
