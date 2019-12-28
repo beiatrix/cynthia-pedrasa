@@ -5,7 +5,7 @@ export const Header = () => {
   return (
     <header id="header">
       <div>
-        <h1 id="name">TEST !!!!!!!!!! ===== cynthia pedrasa</h1>
+        <h1 id="name">cynthia pedrasa</h1>
         <br />
         <h2 id="creds">MS, RN-BC, PMP, CPHIMS</h2>
         {/* <br />
