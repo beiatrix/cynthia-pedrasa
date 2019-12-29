@@ -12,7 +12,16 @@ const projects = [
     name: 'statistical analysis',
     //imageurl: 'https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     url: 'https://cynthiapedrasa.github.io/module-2-statistical_analysis_project/',
-    desc: `For this project, I will be working with the Northwind database--a free, open-source dataset created by Microsoft containing data from a fictional company. The goal of this project is to test the student's ability to gather information from a real-world database and use the knowledge of statistical analysis and hypothesis testing to generate analytical insights to answer the following question: Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?`
+    desc: `For this project, I used the Northwind database--a free, open-source dataset created by Microsoft containing data from a fictional company. The goal of this project is to test the student's ability to gather information from a real-world database and use the knowledge of statistical analysis and hypothesis testing to generate analytical insights to answer the following question: Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?`
+  },
+  {
+    name: 'time-series analysis',
+    //imageurl: 'https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+    url: 'https://cynthiapedrasa.github.io/time-series-analysis/',
+    desc: `Using Time-Series Modeling, we're going to forecast real estate prices of various zipcodes using data from [Zillow](https://www.zillow.com/research/data/).   The question we are trying to answer as a consultant in the Real-Estate Investment Firm is as follows:
+    "What are the top 5 zip codes nationwide with the highest Return on Investment (ROI) in 5 years that are within accepted standard deviation threshold (low volatility or variability in returns)?" 
+    The dataset provides the monthly average house sales price nationwide
+    from April 1996 to April 2018 or just under 10 years of data.`
   },
 ]
 
