@@ -23,6 +23,12 @@ const projects = [
     The dataset provides the monthly average house sales price nationwide
     from April 1996 to April 2018 or just under 10 years of data.`
   },
+  {
+    name: 'predicting 30-day readmisssion risk of patients with diabetes',
+    //imageurl: 'https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+    url: 'https://cynthiapedrasa.github.io/predicting-30-day-readmission/',
+    desc: `Binary Classification project on predicting 30-day Readmisssion Risk of patients with Diabetes`
+  },
 ]
 
 export const Projects = () => {
@@ -34,14 +40,14 @@ export const Projects = () => {
           projects.map((project, idx) => {
             return (
               <section className="project-container" key={`project-${idx}`}>
-                  {
-                    project.imageurl &&
+                {
+                  project.imageurl &&
                   <div className="project-img">
                     <a href={project.url} target="_blank">
                       <img src={project.imageurl} alt={project.name} />
                     </a>
-                </div>
-                  }
+                  </div>
+                }
                 <div className="project-desc">
                   <div className="project-text">
                     <a href={project.url} target="_blank">
