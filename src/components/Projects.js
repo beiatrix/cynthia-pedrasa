@@ -29,6 +29,12 @@ const projects = [
     url: 'https://cynthiapedrasa.github.io/predicting-30-day-readmission/',
     desc: `Binary Classification project on predicting 30-day Readmisssion Risk of patients with Diabetes`
   },
+  {
+    name: 'nlp-predicting 30-day all-cause readmission from Hhspital discharge summary',
+    //imageurl: 'https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+    url: 'https://cynthiapedrasa.github.io/cynthiapedrasa-predicting-readmission-nlp-from-discharge-summary/',
+    desc: `Natural Language Processing - Predicting 30-Day All-Cause Readmission from Hospital Discharge Summary`
+  },
 ]
 
 export const Projects = () => {
